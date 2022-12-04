@@ -1,2 +1,1 @@
 contribute test
-reset
